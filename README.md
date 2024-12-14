@@ -26,7 +26,7 @@ This repository contains a Python-based implementation of a **Convolutional Neur
 - **Hyperparameter Tuning**: Experiments with CNN hyperparameters like filter sizes, number of layers, and learning rates to optimize accuracy.
 
 #### Requirements
-Python 3.8+, TensorFlow 2.x, NumPy, Matplotlib, Pandas, Matplotlib, Seaborn, Scikit-Learn
+Python 3.8+, TensorFlow 2.x, NumPy, Matplotlib, Pandas, Seaborn, Scikit-Learn
 
 Install the required dependencies using:
 `pip install -r requirements.txt`
