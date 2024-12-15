@@ -9,9 +9,9 @@
 )](https://matplotlib.org/)
 [![Pandas 2.2.3](https://img.shields.io/badge/pandas-2.2.3-130754?style=for-the-badge&logo=pandas&logoColor=ffffff
 )](https://pandas.pydata.org/)
+[![Scikit-learn 1.6.0](https://img.shields.io/badge/scikit--learn-1.6.0-F79939?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org/stable/)
 [![Seaborn 0.13.2](https://img.shields.io/badge/seaborn-0.13.2-7DB0BC?style=for-the-badge&logo=pandas&logoColor=ffffff
 )](https://seaborn.pydata.org/)
-[![Scikit-learn 1.6.0](https://img.shields.io/badge/scikit--learn-1.6.0-F79939?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org/stable/)
 [![Jupyter 4.3.3](https://img.shields.io/badge/jupyter-4.3.3-F37821?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 
 This repository contains a Python-based implementation of a **Convolutional Neural Network (CNN)** for recognizing handwritten digits using the **MNIST dataset**. The project demonstrates how to preprocess data, build and train a CNN model, and evaluate its performance on handwritten digit recognition tasks.
