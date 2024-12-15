@@ -55,10 +55,12 @@ pip install -r requirements.txt
   -  Launch Jupyter Notebook:
    ```bash
    jupyter notebook
-  - Open the notebook: `Handwritten_digit_recognition_with_CNN.ipynb`
+   ```
+  - Navigate to the notebook `Handwritten_digit_recognition_with_CNN.ipynb` and open it.
  
    ```bash
    cd deep-learning-projects/Handwritten-digit-recognition-with-CNN
+   ```
 
 
 #### Results
