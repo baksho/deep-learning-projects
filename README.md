@@ -14,5 +14,8 @@ This repository contains a Python-based implementation of different deep learnin
 
 Please go to the individual subfolder for the source code, description of the project and other instructions.
 
+#### Reference
+For better conceptual understanding on how different deep learning algorithm works, please refer to my other GitHub repository: **[dl-nutshell](https://github.com/baksho/dl-nutshell)**.
+
 #### License
 All projects are licensed under the MIT License.
