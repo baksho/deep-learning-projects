@@ -52,13 +52,13 @@ pip install -r requirements.txt
    cd deep-learning-projects/Handwritten-digit-recognition-with-CNN
 
 3. **Run the `Jupyter Notebook` named `Handwritten_digit_recognition_with_CNN.ipynb` to train the CNN model**:
-  -  Launch Jupyter Notebook:
-     ```bash
-     jupyter notebook
-     ```
-  - Navigate to the notebook `Handwritten_digit_recognition_with_CNN.ipynb` and open it.
-  - Execute all cells sequentially.
-  - After training the model, all the weights will be saved in `digit_recog_mnist_cnn.keras` file.
+    -  Launch Jupyter Notebook:
+       ```bash
+       jupyter notebook
+       ```
+    - Navigate to the notebook `Handwritten_digit_recognition_with_CNN.ipynb` and open it.
+    - Execute all cells sequentially.
+    - After training the model, all the weights will be saved in `digit_recog_mnist_cnn.keras` file.
 
 4. **Run the GUI to test the code**:
    ```bash
