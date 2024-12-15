@@ -51,5 +51,8 @@ Achieved `~99%` accuracy with `~0.33` loss on the MNIST test dataset. The model 
 - Extend the project to recognize handwritten text or other digit datasets.
 - Deploy the trained model as a web app using Flask/Django.
 
+#### Reference
+For better conceptual understanding on How a **Convolutional Neural Network** works, please refer to my other GitHub repository: **[dl-nutshell](https://github.com/baksho/dl-nutshell/tree/main)**.
+
 #### License
 This project is licensed under the MIT License.
