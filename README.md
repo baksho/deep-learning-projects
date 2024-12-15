@@ -8,7 +8,7 @@
 [![Jupyter 4.3.3](https://img.shields.io/badge/jupyter-4.3.3-F37821?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 
 #### Content
-This repository contains a Python-based implementation of different deep learning projects. Currentlt, the repositry contains the below projects:
+This repository contains a Python-based implementation of different deep learning projects. Currently, the repositry contains the below projects:
 
 - [X] Handwritten Digit Recognition using CNN
 
