@@ -12,7 +12,7 @@ This repository contains a Python-based implementation of different deep learnin
 
 - [X] Handwritten Digit Recognition using CNN
 
-Please go to the individual subfolder for the source code and other instructions.
+Please go to the individual subfolder for the source code, description of the project and other instructions.
 
 #### License
 All projects are licensed under the MIT License.
