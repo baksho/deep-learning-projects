@@ -41,7 +41,7 @@ Install the required dependencies using:
 
 #### How to Run
 1. Clone the repository:
-   `git clone https://github.com/your-username/handwritten-digit-recognition.git`
+   ```git clone https://github.com/your-username/handwritten-digit-recognition.git```
 
 #### Results
 Achieved `~99%` accuracy with `~0.33` loss on the MNIST test dataset. The model effectively recognizes handwritten digits and generalizes well to unseen data.
