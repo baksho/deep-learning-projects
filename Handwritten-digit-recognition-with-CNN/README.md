@@ -37,12 +37,23 @@ The MNIST dataset is an acronym that stands for the Modified National Institute 
 Python 3.8+, TensorFlow 2.x, NumPy, Matplotlib, Pandas, Seaborn, Scikit-Learn
 
 Install the required dependencies using:
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
 
 #### How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/handwritten-digit-recognition.git
+   git clone https://github.com/baksho/deep-learning-projects.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd deep-learning-projects/Handwritten-digit-recognition-with-CNN
+
+2. **Run the `Jupyter Notebook` named `Handwritten_digit_recognition_with_CNN.ipynb`:
+  -  Launch Jupyter Notebook:
+   ```bash
+   cd deep-learning-projects/Handwritten-digit-recognition-with-CNN
+
 
 #### Results
 Achieved `~99%` accuracy with `~0.33` loss on the MNIST test dataset. The model effectively recognizes handwritten digits and generalizes well to unseen data.
