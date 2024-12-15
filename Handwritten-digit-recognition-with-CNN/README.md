@@ -38,12 +38,14 @@ Python 3.8+, TensorFlow 2.x, NumPy, Matplotlib, Pandas, Seaborn, Scikit-Learn
 
 Install the required dependencies using:
 ```bash
-pip install -r requirements.txt`
+pip install -r requirements.txt
+```
 
 #### How to Run
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/baksho/deep-learning-projects.git
+   ```
 
 2. **Navigate to the project directory**:
    ```bash
