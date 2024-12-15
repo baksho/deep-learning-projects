@@ -12,7 +12,8 @@
 )](https://pandas.pydata.org/)
 [![Seaborn 0.13.2](https://img.shields.io/badge/seaborn-0.13.2-7DB0BC?style=for-the-badge&logo=pandas&logoColor=ffffff
 )](https://seaborn.pydata.org/)
-[![Scikit-learn 1.6.0](https://img.shields.io/badge/scikit--learn-1.6.0-F79939?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)](https://seaborn.pydata.org/)
+[![Scikit-learn 1.6.0](https://img.shields.io/badge/scikit--learn-1.6.0-F79939?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org/stable/)
+[![Jupyter 4.3.3](https://img.shields.io/badge/jupyter-4.3.3-F37821?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 
  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 
