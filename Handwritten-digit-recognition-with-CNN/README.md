@@ -40,8 +40,9 @@ Install the required dependencies using:
 `pip install -r requirements.txt`
 
 #### How to Run
-1. Clone the repository:
-   ```git clone https://github.com/your-username/handwritten-digit-recognition.git```
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/handwritten-digit-recognition.git
 
 #### Results
 Achieved `~99%` accuracy with `~0.33` loss on the MNIST test dataset. The model effectively recognizes handwritten digits and generalizes well to unseen data.
