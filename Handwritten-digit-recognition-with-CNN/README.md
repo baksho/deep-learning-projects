@@ -38,7 +38,7 @@ Python 3.8+, TensorFlow 2.x, NumPy, Matplotlib, Pandas, Seaborn, Scikit-Learn
 
 Install the required dependencies using:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt`
 
 #### How to Run
 1. **Clone the repository**:
