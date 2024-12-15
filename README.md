@@ -1,10 +1,11 @@
 ## Description
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
-[![Python 3.12.5](https://img.shields.io/badge/python-3.12.5-blue?logo=python&logoColor=ffffff)](https://www.python.org/downloads/release/python-3125/)
-[![Keras 3.7.0](https://img.shields.io/badge/keras-3.7.0-red?logo=keras&logoColor=ffffff)](https://keras.io/)
-[![TensorFlow 2.18.0](https://img.shields.io/badge/tensorflow-2.18.0-orange?logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge.svg)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
+[![Python 3.12.5](https://img.shields.io/badge/python-3.12.5-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/downloads/release/python-3125/)
+[![TensorFlow 2.18.0](https://img.shields.io/badge/tensorflow-2.18.0-E55B2D?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
+[![Keras 3.7.0](https://img.shields.io/badge/keras-3.7.0-D00000?style=for-the-badge&logo=keras&logoColor=ffffff)](https://keras.io/)
+[![Jupyter 4.3.3](https://img.shields.io/badge/jupyter-4.3.3-F37821?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 
