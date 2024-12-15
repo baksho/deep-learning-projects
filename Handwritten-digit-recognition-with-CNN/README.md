@@ -33,14 +33,6 @@ The MNIST dataset is an acronym that stands for the Modified National Institute 
 - **Prediction**: Predicts test labels and visualizes results for better understanding.
 - **Hyperparameter Tuning**: Experiments with CNN hyperparameters like filter sizes, number of layers, and learning rates to optimize accuracy.
 
-#### Requirements
-Python 3.8+, TensorFlow 2.x, NumPy, Matplotlib, Pandas, Seaborn, Scikit-Learn
-
-Install the required dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
 #### How to Run
 1. **Clone the repository**:
    ```bash
