@@ -1,7 +1,7 @@
 ## Description
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-green.svg)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
 [![Python 3.12.5](https://img.shields.io/badge/python-3.12.5-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/downloads/release/python-3125/)
 [![NumPy 2.0.2](https://img.shields.io/badge/numpy-2.0.2-777BB4?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org/)
 [![TensorFlow 2.18.0](https://img.shields.io/badge/tensorflow-2.18.0-FF6E00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
