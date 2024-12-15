@@ -3,12 +3,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
 [![Python 3.12.5](https://img.shields.io/badge/python-3.12.5-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/downloads/release/python-3125/)
-[![NumPy 2.0.2](https://img.shields.io/badge/numpy-2.0.2-777BB4?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org/)
+[![NumPy 2.0.2](https://img.shields.io/badge/2.0.2-numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org/)
 [![TensorFlow 2.18.0](https://img.shields.io/badge/tensorflow-2.18.0-FF6E00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
 [![Keras 3.7.0](https://img.shields.io/badge/keras-3.7.0-D00000?style=for-the-badge&logo=keras&logoColor=ffffff)](https://keras.io/)
 
 
-<img alt="Python 3.12.5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+ <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 This repository contains a Python-based implementation of a **Convolutional Neural Network (CNN)** for recognizing handwritten digits using the **MNIST dataset**. The project demonstrates how to preprocess data, build and train a CNN model, and evaluate its performance on handwritten digit recognition tasks.
 
