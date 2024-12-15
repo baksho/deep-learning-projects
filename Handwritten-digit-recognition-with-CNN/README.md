@@ -6,7 +6,8 @@
 [![NumPy 2.0.2](https://img.shields.io/badge/numpy-2.0.2-777BB4?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org/)
 [![TensorFlow 2.18.0](https://img.shields.io/badge/tensorflow-2.18.0-FF6E00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
 [![Keras 3.7.0](https://img.shields.io/badge/keras-3.7.0-D00000?style=for-the-badge&logo=keras&logoColor=ffffff)](https://keras.io/)
-[![Matplotlib 3.9.3](https://img.shields.io/badge/matplotlib-3.9.3-3670A)?style=for-the-badge&logo=matplotlib&logoColor=ffffff)](https://matplotlib.org/)
+[![Matplotlib 3.9.3](https://img.shields.io/badge/matplotlib-3.9.3-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffffff
+)](https://matplotlib.org/)
 
 
  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
