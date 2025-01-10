@@ -14,24 +14,12 @@
 )](https://seaborn.pydata.org/)
 [![Jupyter 4.3.3](https://img.shields.io/badge/jupyter-4.3.3-F37821?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 
-This repository contains a Python-based implementation of a **Convolutional Neural Network (CNN)** for recognizing handwritten digits using the **MNIST dataset**. The project demonstrates how to preprocess data, build and train a CNN model, and evaluate its performance on handwritten digit recognition tasks.
+This repository contains a Python-based implementation of a **Artificial Neural Network (ANN)** for predicting the housing prices in Perth (Western Australia).
 
 The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset.It is a dataset of `60,000` small square `28 × 28` pixel grayscale images of handwritten single digits between `0` and `9`.The task is to classify a given image of a handwritten digit into one of `10` classes representing integer values from `0` to `9`, inclusively. It can be simply imported from Keras Datasets using `from keras.datasets import mnist`.
 
-#### Features
-- **MNIST Dataset**: Utilizes the benchmark dataset of `28 x 28` grayscale images of handwritten digits (0–9).
-- **CNN Architecture**: Implements a custom-designed CNN with layers such as Convolution, MaxPooling, and Dense for feature extraction and classification.
-- **Training & Evaluation**: Includes training on the MNIST dataset and evaluation metrics such as accuracy to measure performance.
-- **Visualization**:
-  - Plots of model training/validation accuracy and loss curves.
-  - Visualization of test predictions using 3x5 grid subplots with predicted and actual labels.
-- **Model Save**: The weights of the trained model are saved separately as `digit_recog_mnist_cnn.keras` file.
-
-#### Project Highlights
-- **Preprocessing**: Normalizes image data for faster convergence during training.
-- **Model Training**: Uses TensorFlow/Keras for defining and training the CNN model.
-- **Prediction**: Predicts test labels and visualizes results for better understanding.
-- **Hyperparameter Tuning**: Experiments with CNN hyperparameters like filter sizes, number of layers, and learning rates to optimize accuracy.
+#### About Dataset
+This data was scraped from http://house.speakingsame.com/ and includes $33566$ data from $322$ Perth suburbs, resulting in an average of about 100 rows per suburb.
 
 #### How to Run
 1. **Clone the repository**:
@@ -41,33 +29,27 @@ The MNIST dataset is an acronym that stands for the Modified National Institute 
 
 2. **Navigate to the project directory**:
    ```bash
-   cd deep-learning-projects/Handwritten-digit-recognition-with-CNN
+   cd deep-learning-projects/House-price-prediction-using-ANN
 
 3. **Run the `Jupyter Notebook` named `Handwritten_digit_recognition_with_CNN.ipynb` to train the CNN model**:
     -  Launch Jupyter Notebook:
        ```bash
        jupyter notebook
        ```
-    - Navigate to the notebook `Handwritten_digit_recognition_with_CNN.ipynb` and open it.
+    - Navigate to the notebook `House_price_prediction_using_ANN.ipynb` and open it.
     - Execute all cells sequentially.
-    - After training the model, all the weights will be saved in `digit_recog_mnist_cnn.keras` file.
+    - After training the model, all the weights will be saved in `house_price_prediction_model.keras` file.
 
-4. **Run the GUI to test the code**:
+4. **Run the python file to test the model for an random user input**:
    ```bash
-   python handwritten_digit_pred_gui.py
+   python predict_house_price.py
    ```
-
 
 #### Results
 Achieved `~99%` accuracy with `~0.33` loss on the MNIST test dataset. The model effectively recognizes handwritten digits and generalizes well to unseen data.
 
-#### Future Work
-- Experiment with more advanced architectures (e.g., ResNet, VGG).
-- Extend the project to recognize handwritten text or other digit datasets.
-- Deploy the trained model as a web app using Flask/Django.
-
 #### Reference
-For better conceptual understanding on how a **Convolutional Neural Network** works, please refer to my other GitHub repository: **[dl-nutshell](https://github.com/baksho/dl-nutshell/tree/main)**.
+For better conceptual understanding on how a **Artificial Neural Network** works, please refer to my other GitHub repository: **[dl-nutshell](https://github.com/baksho/dl-nutshell/tree/main)**.
 
 #### License
 This project is licensed under the MIT License.
