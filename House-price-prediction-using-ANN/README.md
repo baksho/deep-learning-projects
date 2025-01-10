@@ -49,7 +49,7 @@ This data was scraped from http://house.speakingsame.com/ and includes $33566$ d
    ```bash
    cd deep-learning-projects/House-price-prediction-using-ANN
 
-3. **Run the `Jupyter Notebook` named `Handwritten_digit_recognition_with_CNN.ipynb` to train the CNN model**:
+3. **Run the `Jupyter Notebook` named `House_price_prediction_using_ANN.ipynb` to train the ANN model (Don't forget to change the path to dataset)**:
     -  Launch Jupyter Notebook:
        ```bash
        jupyter notebook
@@ -58,7 +58,7 @@ This data was scraped from http://house.speakingsame.com/ and includes $33566$ d
     - Execute all cells sequentially.
     - After training the model, all the weights will be saved in `house_price_prediction_model.keras` file.
 
-4. **Run the python file to test the model for an random user input**:
+4. **Run the python file to test the model for an random user input (Change the path to load the saved preprocessor)**:
    ```bash
    python predict_house_price.py
    ```
