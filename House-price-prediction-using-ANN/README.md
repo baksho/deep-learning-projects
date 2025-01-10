@@ -19,7 +19,27 @@ This repository contains a Python-based implementation of a **Artificial Neural 
 The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset.It is a dataset of `60,000` small square `28 × 28` pixel grayscale images of handwritten single digits between `0` and `9`.The task is to classify a given image of a handwritten digit into one of `10` classes representing integer values from `0` to `9`, inclusively. It can be simply imported from Keras Datasets using `from keras.datasets import mnist`.
 
 #### About Dataset
-This data was scraped from http://house.speakingsame.com/ and includes $33566$ data from $322$ Perth suburbs, resulting in an average of about 100 rows per suburb.
+This data was scraped from http://house.speakingsame.com/ and includes $33566$ data from $322$ Perth suburbs, resulting in an average of about $100$ rows per suburb. Below features are available in the **Perth Housing Dataset**. The dataset is available in [Kaggle](https://www.kaggle.com/datasets/syuzai/perth-house-prices).
+
+- `ADDRESS` : Physical address of the property ( we will set to index )
+- `SUBURB` : Specific locality in Perth; a list of all Perth suburb can be found here
+- `PRICE` : Price at which a property was sold (AUD)
+- `BEDROOMS` : Number of bedrooms
+- `BATHROOMS` : Number of bathrooms
+- `GARAGE` : Number of garage places
+- `LAND_AREA` : Total land area (m^2)
+- `FLOOR_AREA` : Internal floor area (m^2)
+- `BUILD_YEAR` : Year in which the property was built
+- `CBD_DIST` : Distance from the centre of Perth (m)
+- `NEAREST_STN` : The nearest public transport station from the property
+- `NEAREST_STN_DIST` : The nearest station distance (m)
+- `DATE_SOLD` : Month & year in which the property was sold
+- `POSTCODE` : Local Area Identifier
+- `LATITUDE` : Geographic Location (lat) of ADDRESS
+- `LONGITIDE` : Geographic Location (long) of ADDRESS
+- `NEAREST_SCH` : Location of the nearest School
+- `NEAREST_SCH_DIST` : Distance to the nearest school
+- `NEAREST_SCH_RANK` : Ranking of the nearest school
 
 #### How to Run
 1. **Clone the repository**:
