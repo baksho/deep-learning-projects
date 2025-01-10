@@ -16,8 +16,6 @@
 
 This repository contains a Python-based implementation of a **Artificial Neural Network (ANN)** for predicting the housing prices in Perth (Western Australia).
 
-The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset.It is a dataset of `60,000` small square `28 × 28` pixel grayscale images of handwritten single digits between `0` and `9`.The task is to classify a given image of a handwritten digit into one of `10` classes representing integer values from `0` to `9`, inclusively. It can be simply imported from Keras Datasets using `from keras.datasets import mnist`.
-
 #### About Dataset
 This data was scraped from http://house.speakingsame.com/ and includes $33566$ data from $322$ Perth suburbs, resulting in an average of about $100$ rows per suburb. Below features are available in the **Perth Housing Dataset**. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/syuzai/perth-house-prices).
 
