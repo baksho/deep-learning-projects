@@ -12,6 +12,8 @@ This repository contains a Python-based implementation of different deep learnin
 
 - [X] Handwritten Digit Recognition using CNN
 - [ ] Lung Cancer Detection using CNN
+- [X] House Price Prediction using ANN
+- [ ] Customer Churn Prediction using ANN
 - [ ] Pneumonia Detection using VGG16
 
 Please go to the individual subfolder for the source code, description of the project and other instructions.
